@@ -1,0 +1,217 @@
+.main{
+    background: rgb(103, 6, 103);
+    color: white;
+    font-family: georgia, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    height: 70px;
+    font-size: 60px;
+    padding: 10px 80px 15px 620px;
+    font-style: italic;
+    margin-left: -60px;
+    margin-right: -60px;
+}
+
+.bitcoin{
+    text-align: left;
+    font-size: 19px;
+    margin: 70px 100px 20px 30px  ;
+    padding-right: 230px;
+    padding-left: 30px;
+}
+
+#background-1{
+    position: relative;
+    top: -210px;    
+    right: -1150px;
+}
+
+.bitcoin h1{
+    display: inline;
+    margin-bottom: 0;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgb(83, 8, 8);
+    font-family: 'Times New Roman', Times, serif, Arial, sans-serif, arial , sans-serif;
+    border:  6px rgb(103, 6, 103);
+    border-style: outset;
+    padding-left: 8px;
+    padding-right:8px;
+    background-color: rgb(255, 255, 255);
+}
+
+.bitcoin p{
+    text-indent: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+    font-family: helvetica, sans-serif;
+    width: 800px;
+    text-align: justify;
+    padding-top: 15px;
+}
+
+.ethereum{
+    text-align: left;
+    font-size: 19px;
+    margin: -170px 20px 20px -30px  ;
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+#background-2{
+    position: relative;
+    top: -230px;    
+    right: -1180px;
+}
+
+.tether{
+    text-align: left;
+    margin-top: -180px;
+    padding-top: 100px;
+}
+
+#background-3{    
+    position: relative;
+    bottom: 210px;
+    right: -1170px;
+}
+
+body{
+    background-color: rgb(219, 231, 242);
+}
+
+bodydsa{
+    background-color: #e5e5f7; opacity: 1; background: radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #e5e5f7 20%, #e5e5f7 80%, transparent 80%, transparent) 10px 10px, linear-gradient(#d28e18 0.8px, transparent 0.8px) 0 -0.4px, linear-gradient(90deg, #d28e18 0.8px, #e5e5f7 0.8px) -0.4px 0; background-size: 20px 20px, 20px 20px, 10px 10px, 10px 10px;
+}
+
+input[type = button]{
+    width: 160px;
+    height: 50px;
+    text-align: left;
+    font-size: 23px ;
+    color: rgb(83, 8, 8);
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    border: rgb(103, 6, 103) solid 4.5px;
+    border-radius: 17px;
+    cursor: pointer;
+    font-family: helvetica;
+}
+
+
+#wallet{
+    position: relative;
+    left: 1075px;
+    bottom: 1300px;
+    height: 950px;
+    width: 400px;
+    border: solid 3px;
+}
+
+#wallet h1{
+    text-align: center;
+}
+
+.coin-img{
+    float: left;
+    width: 30%;
+    margin-left: 70px;
+}
+
+.coin-quantity{
+    float: left;
+    width: 15%;
+    margin-top: 17px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.coin-name{
+    float: left;
+    width: 30%;
+    margin-top: 17px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.coin{
+    height: 90px;
+}
+
+#total-balance{
+    font-size: 18px;
+}
+
+#balance{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    max-width: %100;
+}
+
+.bt1{
+    position: relative;
+    bottom: 185px;
+    left: 830px;
+}
+.bt2{
+    position: relative;
+    bottom: 185px;
+    left: 830px;
+}
+.bt3{
+    position: relative;
+    bottom: 220px;
+    left: 830px;
+}
+
+#wallet h1{
+    font-size: 53px;
+    font-family: Calibri;
+    color: rgb(83, 8, 8);
+}
+
+.coin-quantity, .coin-name{
+    font-size: 40px;
+    font-family: tahoma;
+}
+
+#balance{
+    font-size: 45px;
+    font-family: "tahoma";
+}
+
+#wallet{
+    border: solid 6px rgb(61, 3, 61);
+    border-radius: 22px;
+    border-style: outset;
+    background-color: rgb(255, 255, 255);
+}
+
+.coin-img{
+    position: relative;
+    top: 9px;
+    left: 6px;
+}
+
+#img-2{
+    position: relative;
+    left: 20px;
+}
+
+::-webkit-scrollbar{
+    width: 13px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(103, 6, 103);
+    border-radius: 5px;
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+
+rgb(227, 185, 122)
+rgb(219, 231, 242)
